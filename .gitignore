@@ -3,3 +3,4 @@
 /TestHarness/bin
 /TestHarness/obj
 /.vs
+*.user

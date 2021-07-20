@@ -1,10 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 using WindowsFormsCalendar;
@@ -15,7 +10,7 @@ namespace TestHarness
     {
         #region Fields
 
-        private List<CalendarItem> _items = new List<CalendarItem>();
+        private List<CalendarItem> _items = new();
 
         #endregion
 
